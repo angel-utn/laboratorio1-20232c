@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1697899744 source:f:\laboratorioi\2023-2c\clase12\problema1\main.cpp
+	<iostream>
+	"funciones.h"
+
+1697898963 f:\laboratorioi\2023-2c\clase12\problema1\funciones.h
+
+1697899945 source:f:\laboratorioi\2023-2c\clase12\problema1\funciones.cpp
+	<iostream>
+	<locale>
+	"funciones.h"
+
